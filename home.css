@@ -1,0 +1,97 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+
+	margin-left: 0px;
+	margin-top: 18px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+   	background-color: #FFF;
+   	text-align:center;
+
+
+}
+#wrapper {
+        margin: 0 auto;
+        width: 864px; 
+   
+   }
+   
+P {
+	font-family: Helvetica, Arial; 
+	font-style: Normal;
+	font-weight: 300;
+	text-align: center;
+	font-size: 24px;
+	color: #554e4d;
+	margin: 0 auto; 
+	}
+	
+A.hover {
+	color: #554e4d;
+ 	text-decoration: none;
+	}
+	
+A {
+	color: #cdc1c1;
+ 	text-decoration: none;
+	}
+	
+P.parenthesis {
+	font-family: Helvetica, Arial; 
+	font-style: Normal;
+	font-weight: 300;
+	text-align: center;
+	font-size: 16px;
+	color: #554e4d;
+	}
+	
+P.sub {
+	font-family: Helvetica, Arial; 
+	font-style: Normal;
+	font-weight: 300;
+	text-align: center;
+	font-size: 17px;
+	}
+	
+	
+div.parenthesis {
+	padding: 0px;
+	margin: 0 auto; 
+	}
+	
+		
+div.workof {
+	margin: 0 auto;
+	padding: 0px;
+	}
+	
+div.bottomnames {
+	margin: 0 auto;
+	position: inherit;
+}
+	
+hr {
+	color: #FF66CC;
+	background-color: #FF66CC;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+	height: 5px;
+	border: 0px;
+}
+
+div.left {
+	width: auto;
+	height: auto;
+	float: left;
+	padding: 0px;
+	margin: 0 auto;
+}
+div.right {
+	width: auto;
+	height: auto;
+	float: right;
+	padding: 0px;
+	margin: 0 auto;
+}
