@@ -39,17 +39,17 @@ The Bell Condominium remodel showcases many of the standards I generally recomme
 - [ ![Guest Bath](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn1980-50x37.jpg "Guest Bath") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn1980-400x300.jpg "Guest Bath")<div class="caption"><div class="image-caption">More slatted shelving in the guest bath</div> </div>
 - [ ![](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn2015-50x37.jpg "dscn2015") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn2015-400x300.jpg "dscn2015")<div class="caption"><div class="image-caption">Linen Closet, Cabinets and Marble Counter in Guest Bath</div> </div>
 - [ ![](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn2030-50x37.jpg "Triangular Shelving") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn2030-400x300.jpg "Triangular Shelving")<div class="caption"><div class="image-caption">Triangular Shelving to Make use of Use Odd Space</div> </div>
- 
+
 <div class="photospace_clear"></div> [](# "Previous Page") [](# "Next Page") </div> </div> </div> <div class="gal_content"><div class="controls" id="controls_233_1"></div><div class="slideshow-container"><div class="loader" id="loading_233_1"></div><div class="slideshow" id="slideshow_233_1"></div><div class="caption-container" id="caption_233_1"></div> </div> </div> </div><div class="gallery_clear"></div> <script type="text/javascript">
-			
+
 			jQuery(document).ready(function($) {
-				
+
 				// We only want these styles applied when javascript is enabled
 				$('.gal_content').css('display', 'block');
 				$('.thumnail_col').css('width', '190px');
-				
-				// Initialize Advanced Galleriffic Gallery 
-				var gallery = $('#thumbs_233_1').galleriffic({ 
+
+				// Initialize Advanced Galleriffic Gallery
+				var gallery = $('#thumbs_233_1').galleriffic({
 					delay:                     3500,
 					numThumbs:                 18,
 					preloadAhead:              18,
@@ -57,7 +57,7 @@ The Bell Condominium remodel showcases many of the standards I generally recomme
 					enableBottomPager:         false,
 					imageContainerSel:         '#slideshow_233_1',
 					controlsContainerSel:      '#controls_233_1',
-					captionContainerSel:       '#caption_233_1',  
+					captionContainerSel:       '#caption_233_1',
 					loadingContainerSel:       '#loading_233_1',
 					renderSSControls:          true,
 					renderNavControls:         true,
@@ -72,7 +72,7 @@ The Bell Condominium remodel showcases many of the standards I generally recomme
 					enableKeyboardNavigation:	true,
 					syncTransitions:           	1,
 					defaultTransitionDuration: 	300,
-						
+
 					onTransitionOut:           function(slide, caption, isSync, callback) {
 						slide.fadeTo(this.getDefaultTransitionDuration(isSync), 0.0, callback);
 						caption.fadeTo(this.getDefaultTransitionDuration(isSync), 0.0);
@@ -80,7 +80,7 @@ The Bell Condominium remodel showcases many of the standards I generally recomme
 					onTransitionIn:            function(slide, caption, isSync) {
 						var duration = this.getDefaultTransitionDuration(isSync);
 						slide.fadeTo(duration, 1.0);
-	
+
 						// Position the caption at the bottom of the image and set its opacity
 						var slideImage = slide.find('img');
 						caption.width(slideImage.width())
@@ -90,7 +90,7 @@ The Bell Condominium remodel showcases many of the standards I generally recomme
 								'left' : Math.floor((slide.width() - slideImage.width()) / 2) + slideImage.outerWidth() - slideImage.width()
 							})
 							.fadeTo(duration, 1.0);
-						
+
 					},
 					onPageTransitionOut:       function(callback) {
 						this.hide();
@@ -99,34 +99,34 @@ The Bell Condominium remodel showcases many of the standards I generally recomme
 					onPageTransitionIn:        function() {
 						var prevPageLink = this.find('a.prev').css('display', 'none');
 						var nextPageLink = this.find('a.next').css('display', 'none');
-						
+
 						// Show appropriate next / prev page links
 						if (this.displayedPage > 0)
 							prevPageLink.css('display', 'block');
-		
+
 						var lastPage = this.getNumPages() - 1;
 						if (this.displayedPage < lastPage)
 							nextPageLink.css('display', 'block');
-		
+
 						this.fadeTo('fast', 1.0);
 					}
-					
-				}); 
-				
-				
-				
+
+				});
+
+
+
 				/**************** Event handlers for custom next / prev page links **********************/
-		
+
 				gallery.find('a.prev').click(function(e) {
 					gallery.previousPage();
 					e.preventDefault();
 				});
-		
+
 				gallery.find('a.next').click(function(e) {
-					gallery.nextPage(); 
+					gallery.nextPage();
 					e.preventDefault();
 				});
-		
+
 			});
 		</script><div class="gallery_clear"></div><div class="photospace" id="gallery_233_2"> <div class="thumbs_wrap2"><div class="thumbs_wrap"><div class="thumnail_col " id="thumbs_233_2">- [ ![](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn2027-50x37.jpg "Bath Storage Shelving") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn2027-400x300.jpg "Bath Storage Shelving")<div class="caption"><div class="image-caption">Bath Storage Shelving with Slatted Doors for ventilation</div> </div>
 - [ ![](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn1998-50x37.jpg "dscn1998") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn1998-400x300.jpg "dscn1998")<div class="caption"><div class="image-caption">Offwhite marble countertop and white tiling add to a clean, bright look.</div><div class="image-desc">Oven drawers (on right) match full kitchen cabinetry work.</div> </div>
@@ -154,17 +154,17 @@ The Bell Condominium remodel showcases many of the standards I generally recomme
 - [ ![Pantry Cabinets](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn1997-50x37.jpg "Pantry Cabinets") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn1997-400x300.jpg "Pantry Cabinets")<div class="caption"><div class="image-caption">Tall, thin Pantry Cabinets to the left of range and oven.</div> </div>
 - [ ![Slatted Shelving](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn1984-50x37.jpg "Slatted Shelving ") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn1984-400x300.jpg "Slatted Shelving ")<div class="caption"><div class="image-caption">Slatted Shelving offers ventilation to counter humidity.</div><div class="image-desc"> </div> </div>
 - [ ![](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn2030-50x37.jpg "Triangular Shelving") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn2030-400x300.jpg "Triangular Shelving")<div class="caption"><div class="image-caption">Triangular Shelving to Make use of Use Odd Space</div> </div>
- 
+
 <div class="photospace_clear"></div> [](# "Previous Page") [](# "Next Page") </div> </div> </div> <div class="gal_content"><div class="controls" id="controls_233_2"></div><div class="slideshow-container"><div class="loader" id="loading_233_2"></div><div class="slideshow" id="slideshow_233_2"></div><div class="caption-container" id="caption_233_2"></div> </div> </div> </div><div class="gallery_clear"></div> <script type="text/javascript">
-			
+
 			jQuery(document).ready(function($) {
-				
+
 				// We only want these styles applied when javascript is enabled
 				$('.gal_content').css('display', 'block');
 				$('.thumnail_col').css('width', '190px');
-				
-				// Initialize Advanced Galleriffic Gallery 
-				var gallery = $('#thumbs_233_2').galleriffic({ 
+
+				// Initialize Advanced Galleriffic Gallery
+				var gallery = $('#thumbs_233_2').galleriffic({
 					delay:                     3500,
 					numThumbs:                 18,
 					preloadAhead:              18,
@@ -172,7 +172,7 @@ The Bell Condominium remodel showcases many of the standards I generally recomme
 					enableBottomPager:         false,
 					imageContainerSel:         '#slideshow_233_2',
 					controlsContainerSel:      '#controls_233_2',
-					captionContainerSel:       '#caption_233_2',  
+					captionContainerSel:       '#caption_233_2',
 					loadingContainerSel:       '#loading_233_2',
 					renderSSControls:          true,
 					renderNavControls:         true,
@@ -187,7 +187,7 @@ The Bell Condominium remodel showcases many of the standards I generally recomme
 					enableKeyboardNavigation:	true,
 					syncTransitions:           	1,
 					defaultTransitionDuration: 	300,
-						
+
 					onTransitionOut:           function(slide, caption, isSync, callback) {
 						slide.fadeTo(this.getDefaultTransitionDuration(isSync), 0.0, callback);
 						caption.fadeTo(this.getDefaultTransitionDuration(isSync), 0.0);
@@ -195,7 +195,7 @@ The Bell Condominium remodel showcases many of the standards I generally recomme
 					onTransitionIn:            function(slide, caption, isSync) {
 						var duration = this.getDefaultTransitionDuration(isSync);
 						slide.fadeTo(duration, 1.0);
-	
+
 						// Position the caption at the bottom of the image and set its opacity
 						var slideImage = slide.find('img');
 						caption.width(slideImage.width())
@@ -205,7 +205,7 @@ The Bell Condominium remodel showcases many of the standards I generally recomme
 								'left' : Math.floor((slide.width() - slideImage.width()) / 2) + slideImage.outerWidth() - slideImage.width()
 							})
 							.fadeTo(duration, 1.0);
-						
+
 					},
 					onPageTransitionOut:       function(callback) {
 						this.hide();
@@ -214,33 +214,33 @@ The Bell Condominium remodel showcases many of the standards I generally recomme
 					onPageTransitionIn:        function() {
 						var prevPageLink = this.find('a.prev').css('display', 'none');
 						var nextPageLink = this.find('a.next').css('display', 'none');
-						
+
 						// Show appropriate next / prev page links
 						if (this.displayedPage > 0)
 							prevPageLink.css('display', 'block');
-		
+
 						var lastPage = this.getNumPages() - 1;
 						if (this.displayedPage < lastPage)
 							nextPageLink.css('display', 'block');
-		
+
 						this.fadeTo('fast', 1.0);
 					}
-					
-				}); 
-				
-				
-				
+
+				});
+
+
+
 				/**************** Event handlers for custom next / prev page links **********************/
-		
+
 				gallery.find('a.prev').click(function(e) {
 					gallery.previousPage();
 					e.preventDefault();
 				});
-		
+
 				gallery.find('a.next').click(function(e) {
-					gallery.nextPage(); 
+					gallery.nextPage();
 					e.preventDefault();
 				});
-		
+
 			});
 		</script>

@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --grey: #999999;
+}
+
+.flexed {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+figure {
+  border: 1px solid var(--grey);
+  border-radius: 5px;
+  padding: 1em;
+}
+
+figure figcaption {
+  text-align: center;
+}
+
+figure img {
+  border-radius: 5px;
+}
