@@ -23,7 +23,7 @@ categories:
 - [ ![](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib25-50x37.jpg "Crib25") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib25-400x300.jpg "Crib25")<div class="caption"><div class="image-caption">Can I have this dance?</div> </div>
 - [ ![](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib27-50x37.jpg "Crib27") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib27-400x300.jpg "Crib27")<div class="caption"><div class="image-caption">Custom shipping box.</div> </div>
 
-<div class="photospace_clear"></div> [](# "Previous Page") [](# "Next Page") </div> </div> </div> <div class="gal_content"><div class="controls" id="controls_446_5"></div><div class="slideshow-container"><div class="loader" id="loading_446_5"></div><div class="slideshow" id="slideshow_446_5"></div><div class="caption-container" id="caption_446_5"></div> </div> </div> </div><div class="gallery_clear"></div> <script type="text/javascript">
+
 
 			jQuery(document).ready(function($) {
 

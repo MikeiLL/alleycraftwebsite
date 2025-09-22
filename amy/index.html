@@ -9,22 +9,22 @@ title: Amy Alley
 
 <div id="projects-list">
   {% for project in site.amy %}
-  <div class="project-list">
+  <div class="flexed">
     <div id="#{{ project.name | slugize }}"></div>
     <h3 class="post-list-heading line-bottom">
       <a href="{{ project.url }}">{{ project.title }}</a>
     </h3>
     {{ project.content | markdownify }}
-    <ul class="post-list">
+    <div class="flexed">
       {% assign project_category = project.categories | first %}
       {% for post in site.posts %}
       {% if post.categories contains project_category %}
-      <li>
+      <p>
         {% include post_preview.html post=post %}
-      </li>
+      </p>
       {% endif %}
       {% endfor %}
-    </ul>
+    </div>
   </div>
   {% endfor %}
 </div>

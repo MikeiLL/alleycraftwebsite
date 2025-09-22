@@ -29,7 +29,7 @@ categories:
 - [ ![](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/ShopOne02-50x37.jpg "ShopOne02") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/ShopOne02-400x299.jpg "ShopOne02")<div class="caption"> </div>
 - [ ![](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/ShopOne01-50x37.jpg "ShopOne01") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/ShopOne01-400x299.jpg "ShopOne01")<div class="caption"> </div>
 
-<div class="photospace_clear"></div> [](# "Previous Page") [](# "Next Page") </div> </div> </div> <div class="gal_content"><div class="controls" id="controls_328_3"></div><div class="slideshow-container"><div class="loader" id="loading_328_3"></div><div class="slideshow" id="slideshow_328_3"></div><div class="caption-container" id="caption_328_3"></div> </div> </div> </div><div class="gallery_clear"></div> <script type="text/javascript">
+
 
 			jQuery(document).ready(function($) {
 

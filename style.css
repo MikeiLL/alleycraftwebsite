@@ -12,6 +12,14 @@
   align-items: center;
 }
 
+.flexed.gallery {
+  gap: 1em;
+  margin: auto;
+  border: 1px solid grey;
+  border-radius: 10px;
+  justify-content: center;
+}
+
 figure {
   border: 1px solid var(--grey);
   border-radius: 5px;

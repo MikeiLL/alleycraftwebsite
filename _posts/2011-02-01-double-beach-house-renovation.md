@@ -40,7 +40,7 @@ The Bell Condominium remodel showcases many of the standards I generally recomme
 - [ ![](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn2015-50x37.jpg "dscn2015") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn2015-400x300.jpg "dscn2015")<div class="caption"><div class="image-caption">Linen Closet, Cabinets and Marble Counter in Guest Bath</div> </div>
 - [ ![](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn2030-50x37.jpg "Triangular Shelving") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn2030-400x300.jpg "Triangular Shelving")<div class="caption"><div class="image-caption">Triangular Shelving to Make use of Use Odd Space</div> </div>
 
-<div class="photospace_clear"></div> [](# "Previous Page") [](# "Next Page") </div> </div> </div> <div class="gal_content"><div class="controls" id="controls_233_1"></div><div class="slideshow-container"><div class="loader" id="loading_233_1"></div><div class="slideshow" id="slideshow_233_1"></div><div class="caption-container" id="caption_233_1"></div> </div> </div> </div><div class="gallery_clear"></div> <script type="text/javascript">
+
 
 			jQuery(document).ready(function($) {
 
@@ -155,7 +155,7 @@ The Bell Condominium remodel showcases many of the standards I generally recomme
 - [ ![Slatted Shelving](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn1984-50x37.jpg "Slatted Shelving ") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn1984-400x300.jpg "Slatted Shelving ")<div class="caption"><div class="image-caption">Slatted Shelving offers ventilation to counter humidity.</div><div class="image-desc"> </div> </div>
 - [ ![](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn2030-50x37.jpg "Triangular Shelving") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/02/dscn2030-400x300.jpg "Triangular Shelving")<div class="caption"><div class="image-caption">Triangular Shelving to Make use of Use Odd Space</div> </div>
 
-<div class="photospace_clear"></div> [](# "Previous Page") [](# "Next Page") </div> </div> </div> <div class="gal_content"><div class="controls" id="controls_233_2"></div><div class="slideshow-container"><div class="loader" id="loading_233_2"></div><div class="slideshow" id="slideshow_233_2"></div><div class="caption-container" id="caption_233_2"></div> </div> </div> </div><div class="gallery_clear"></div> <script type="text/javascript">
+
 
 			jQuery(document).ready(function($) {
 

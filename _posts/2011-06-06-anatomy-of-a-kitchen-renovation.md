@@ -78,7 +78,7 @@ Removing, redesigning and rebuilding a kitchen is quite a project and this one e
 - [ ![A job well down](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Countertop13-50x37.jpg "Countertop13") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Countertop13-400x300.jpg "Countertop13")<div class="caption"><div class="image-caption">A job well down</div> </div>
 - [ ![Nice place](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Countertop14-50x37.jpg "Countertop14") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Countertop14-400x300.jpg "Countertop14")<div class="caption"><div class="image-caption">Nice place</div> </div>
 
-<div class="photospace_clear"></div> [](# "Previous Page") [](# "Next Page") </div> </div> </div> <div class="gal_content"><div class="controls" id="controls_358_4"></div><div class="slideshow-container"><div class="loader" id="loading_358_4"></div><div class="slideshow" id="slideshow_358_4"></div><div class="caption-container" id="caption_358_4"></div> </div> </div> </div><div class="gallery_clear"></div> <script type="text/javascript">
+
 
 			jQuery(document).ready(function($) {
 
