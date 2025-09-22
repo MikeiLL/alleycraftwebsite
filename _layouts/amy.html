@@ -1,19 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: page
+---
 
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-  <title>Alley Craft - the work of David and Amy Alley</title>
-  <link href="/alleycraft.css" type="text/css" rel="stylesheet" />
-  <meta name="keywords"
-    content="David Alley, Amy Alley, Pensacola, recrafting, woodworking, carpentry, remodeling, design" />
-  <meta name="description"
-    content="AlleyCraft.com is the home for David Alley Carpentry, Cabinets &amp; Remodeling and Amy Amy ReCrafting" />
-
-</head>
 {{ content }}
-
-<body>
-</body>
-
-</html>
+<h2>{{ page.list_title | default: "Posts" }}</h2>
+<div>
+  <ul>
+    {% assign page_category = page.categories | first %}
+    {% for post in site.posts %}
+    {% if post.categories contains page_category %}
+    <li>
+      {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
+      <b>
+        <a href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </b> - <i>{{ post.date | date: date_format }}</i>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</div>

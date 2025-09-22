@@ -8,3 +8,11 @@ collections:
   staff_members:
     output: true
     permalink: /:collection/:name
+  amy:
+    output: true
+    permalink: /:collection/:categories:output_ext
+
+permalink: /:categories/:title:output_ext
+
+header_pages:
+  - projects/index.html
