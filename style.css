@@ -6,10 +6,23 @@
   --grey: #999999;
 }
 
+h1,
+h2,
+h3,
+h4 {
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 .flexed {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  justify-content: center;
 }
 
 .flexed.gallery {
@@ -32,4 +45,25 @@ figure figcaption {
 
 figure img {
   border-radius: 5px;
+}
+
+
+.clear {
+  clear: both;
+}
+
+.paragraph {
+  margin: 1em auto;
+  max-width: 750px;
+}
+
+@media screen and (min-width: 1024px) {
+
+  .floatleft {
+    float: left;
+  }
+
+  .floatright {
+    float: right;
+  }
 }

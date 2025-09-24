@@ -3,6 +3,7 @@
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Alley Craft - the work of David and Amy Alley</title>
   <link href="/style.css" type="text/css" rel="stylesheet">
   <meta name="keywords"
@@ -11,9 +12,12 @@
     content="AlleyCraft.com is the home for David Alley Carpentry, Cabinets &amp; Remodeling and Amy Amy ReCrafting">
 
 </head>
-{{ content }}
 
 <body>
+  {% include header.html %}
+  <main>
+    {{ content }}
+  </main>
 </body>
 
 </html>
