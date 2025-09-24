@@ -3,7 +3,7 @@ id: 487
 title: 'Custom Wood Panelling'
 date: '2020-10-23T15:43:23-06:00'
 author: 'David Alley'
-layout: post
+layout: davidpost
 image: /wp-content/uploads/2020/10/IMG_286711.jpg
 categories:
 ---

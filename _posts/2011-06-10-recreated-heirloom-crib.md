@@ -3,7 +3,7 @@ id: 446
 title: 'Recreated Heirloom Crib'
 date: '2011-06-10T11:59:56-06:00'
 author: 'David Alley'
-layout: post
+layout: davidpost
 guid: 'http://www.alleycraft.com/wood/?p=446'
 permalink: /recreated-heirloom-crib/
 image: /wp-content/uploads/2011/06/Crib09.jpg
@@ -13,105 +13,50 @@ categories:
 
 ## Recreated Heirloom Crib
 
+<figure markdown=1>
 ![](/wp-content/uploads/2011/06/Crib01-400x300.jpg "Crib01")
+</figure>
+
+<figure markdown=1>
 
 ![](/wp-content/uploads/2011/06/Crib02-400x310.jpg "Crib02")
-- [ ![](/wp-content/uploads/2011/06/Crib04-50x40.jpg "Crib04") ](/wp-content/uploads/2011/06/Crib04-400x324.jpg "Crib04")<div class="caption"> </div>
-- [ ![](/wp-content/uploads/2011/06/Crib05-37x50.jpg "Crib05") ](/wp-content/uploads/2011/06/Crib05.jpg "Crib05")<div class="caption"> </div>
-- [ ![](/wp-content/uploads/2011/06/Crib08-37x50.jpg "Crib08") ](/wp-content/uploads/2011/06/Crib08.jpg "Crib08")<div class="caption"> </div>
-- [ ![](/wp-content/uploads/2011/06/Crib09-50x40.jpg "Crib09") ](/wp-content/uploads/2011/06/Crib09-400x326.jpg "Crib09")<div class="caption"> </div>
-- [ ![](/wp-content/uploads/2011/06/Crib10-47x50.jpg "Crib10") ](/wp-content/uploads/2011/06/Crib10.jpg "Crib10")<div class="caption"> </div>
-- [ ![](/wp-content/uploads/2011/06/Crib17-50x37.jpg "Crib17") ](/wp-content/uploads/2011/06/Crib17-400x300.jpg "Crib17")<div class="caption"><div class="image-caption">Our neighbor Rinah demonstrates</div> </div>
-- [ ![](/wp-content/uploads/2011/06/Crib22-50x37.jpg "Crib22") ](/wp-content/uploads/2011/06/Crib22-400x300.jpg "Crib22")<div class="caption"><div class="image-caption">Don't drop Teddy.</div> </div>
-- [ ![](/wp-content/uploads/2011/06/Crib25-50x37.jpg "Crib25") ](/wp-content/uploads/2011/06/Crib25-400x300.jpg "Crib25")<div class="caption"><div class="image-caption">Can I have this dance?</div> </div>
-- [ ![](/wp-content/uploads/2011/06/Crib27-50x37.jpg "Crib27") ](/wp-content/uploads/2011/06/Crib27-400x300.jpg "Crib27")<div class="caption"><div class="image-caption">Custom shipping box.</div> </div>
+</figure>
 
+<figure markdown=1>
+![](/wp-content/uploads/2011/06/Crib04-400x324.jpg "Crib04")
+</figure>
 
+<figure markdown=1>
+![](/wp-content/uploads/2011/06/Crib05.jpg "Crib05")
+</figure>
 
-			jQuery(document).ready(function($) {
+<figure markdown=1>
+![](/wp-content/uploads/2011/06/Crib08.jpg "Crib08")
+</figure>
 
-				// We only want these styles applied when javascript is enabled
-				$('.gal_content').css('display', 'block');
-				$('.thumnail_col').css('width', '190px');
+<figure markdown=1>
+![](/wp-content/uploads/2011/06/Crib09-400x326.jpg "Crib09")
+</figure>
 
-				// Initialize Advanced Galleriffic Gallery
-				var gallery = $('#thumbs_446_5').galleriffic({
-					delay:                     3500,
-					numThumbs:                 18,
-					preloadAhead:              18,
-					enableTopPager:            0,
-					enableBottomPager:         false,
-					imageContainerSel:         '#slideshow_446_5',
-					controlsContainerSel:      '#controls_446_5',
-					captionContainerSel:       '#caption_446_5',
-					loadingContainerSel:       '#loading_446_5',
-					renderSSControls:          true,
-					renderNavControls:         true,
-					playLinkText:              '',
-					pauseLinkText:             '',
-					prevLinkText:              '',
-					nextLinkText:              '',
-					nextPageLinkText:          '&rsaquo;',
-					prevPageLinkText:          '&lsaquo;',
-					enableHistory:              0,
-					autoStart:                 	1,
-					enableKeyboardNavigation:	true,
-					syncTransitions:           	1,
-					defaultTransitionDuration: 	300,
+<figure markdown=1>
+![](/wp-content/uploads/2011/06/Crib10.jpg "Crib10")
+</figure>
 
-					onTransitionOut:           function(slide, caption, isSync, callback) {
-						slide.fadeTo(this.getDefaultTransitionDuration(isSync), 0.0, callback);
-						caption.fadeTo(this.getDefaultTransitionDuration(isSync), 0.0);
-					},
-					onTransitionIn:            function(slide, caption, isSync) {
-						var duration = this.getDefaultTransitionDuration(isSync);
-						slide.fadeTo(duration, 1.0);
+<figure markdown=1>
+![](/wp-content/uploads/2011/06/Crib17-400x300.jpg "Crib17")
+</figure>
 
-						// Position the caption at the bottom of the image and set its opacity
-						var slideImage = slide.find('img');
-						caption.width(slideImage.width())
-							.css({
-								//'bottom' : Math.floor((slide.height() - slideImage.outerHeight()) / 2 - 40),
-								'top' : slideImage.outerHeight(),
-								'left' : Math.floor((slide.width() - slideImage.width()) / 2) + slideImage.outerWidth() - slideImage.width()
-							})
-							.fadeTo(duration, 1.0);
+<figure markdown=1>
+<figcaption>Our neighbor Rinah demonstrates</figcaption></figure>
 
-					},
-					onPageTransitionOut:       function(callback) {
-						this.hide();
-						setTimeout(callback, 100); // wait a bit
-					},
-					onPageTransitionIn:        function() {
-						var prevPageLink = this.find('a.prev').css('display', 'none');
-						var nextPageLink = this.find('a.next').css('display', 'none');
+<figure markdown=1>
+![](/wp-content/uploads/2011/06/Crib22-400x300.jpg "Crib22")
+<figcaption>Don't drop Teddy.</figcaption></figure>
 
-						// Show appropriate next / prev page links
-						if (this.displayedPage > 0)
-							prevPageLink.css('display', 'block');
+<figure markdown=1>
+![](/wp-content/uploads/2011/06/Crib25-400x300.jpg "Crib25")
+<figcaption>Can I have this dance?</figcaption></figure>
 
-						var lastPage = this.getNumPages() - 1;
-						if (this.displayedPage < lastPage)
-							nextPageLink.css('display', 'block');
-
-						this.fadeTo('fast', 1.0);
-					}
-
-				});
-
-
-
-				/**************** Event handlers for custom next / prev page links **********************/
-
-				gallery.find('a.prev').click(function(e) {
-					gallery.previousPage();
-					e.preventDefault();
-				});
-
-				gallery.find('a.next').click(function(e) {
-					gallery.nextPage();
-					e.preventDefault();
-				});
-
-			});
-		</script>
+<figure markdown=1>
+![](/wp-content/uploads/2011/06/Crib27-400x300.jpg "Crib27")
+<figcaption>Custom shipping box.</figcaption></figure>
