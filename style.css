@@ -4,6 +4,28 @@
 
 :root {
   --grey: #999999;
+  --primary: #660000;
+  --white: #ccffff;
+}
+
+header,
+footer {
+  background-color: var(--primary);
+  color: var(--white);
+  padding: 1em;
+  text-align: center;
+}
+
+header nav ul {
+  list-style-type: none;
+  padding-left: none;
+  display: inline-flex;
+  gap: 1em;
+}
+
+header nav ul li {
+  padding: 0.6em;
+  background-color: var(--white);
 }
 
 h1,
@@ -13,7 +35,12 @@ h4 {
   text-align: center;
 }
 
-img {
+.pad {
+  padding: 0.2em 1em;
+}
+
+img,
+video {
   max-width: 100%;
   height: auto;
 }

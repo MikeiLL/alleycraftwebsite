@@ -1,0 +1,22 @@
+---
+layout: page
+title: David Alley Gallery
+---
+
+
+<div id="projects-list" class="clear">
+  <h3>David project listing</h3>
+  {% for post in site.posts %}
+  <div class="flexed">
+    <div id="#{{ project.name | slugize }}"></div>
+    <div class="flexed">
+      {% assign project_category = project.categories | first %}
+      {% unless post.categories contains "amy" %}
+      <p>
+        {% include post_preview.html post=post %}
+      </p>
+      {% endunless %}
+    </div>
+  </div>
+  {% endfor %}
+</div>

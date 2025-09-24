@@ -11,17 +11,20 @@ categories:
     - Gallery
 ---
 
-<div class="gallery_clear"></div><div class="photospace" id="gallery_446_5"> <div class="thumbs_wrap2"><div class="thumbs_wrap"><div class="thumnail_col " id="thumbs_446_5">- [ ![](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib01-50x37.jpg "Crib01") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib01-400x300.jpg "Crib01")<div class="caption"> </div>
-- [ ![](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib02-50x38.jpg "Crib02") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib02-400x310.jpg "Crib02")<div class="caption"> </div>
-- [ ![](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib04-50x40.jpg "Crib04") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib04-400x324.jpg "Crib04")<div class="caption"> </div>
-- [ ![](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib05-37x50.jpg "Crib05") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib05.jpg "Crib05")<div class="caption"> </div>
-- [ ![](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib08-37x50.jpg "Crib08") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib08.jpg "Crib08")<div class="caption"> </div>
-- [ ![](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib09-50x40.jpg "Crib09") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib09-400x326.jpg "Crib09")<div class="caption"> </div>
-- [ ![](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib10-47x50.jpg "Crib10") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib10.jpg "Crib10")<div class="caption"> </div>
-- [ ![](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib17-50x37.jpg "Crib17") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib17-400x300.jpg "Crib17")<div class="caption"><div class="image-caption">Our neighbor Rinah demonstrates</div> </div>
-- [ ![](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib22-50x37.jpg "Crib22") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib22-400x300.jpg "Crib22")<div class="caption"><div class="image-caption">Don't drop Teddy.</div> </div>
-- [ ![](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib25-50x37.jpg "Crib25") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib25-400x300.jpg "Crib25")<div class="caption"><div class="image-caption">Can I have this dance?</div> </div>
-- [ ![](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib27-50x37.jpg "Crib27") ](https://www.alleycraft.com/wood/wp-content/uploads/2011/06/Crib27-400x300.jpg "Crib27")<div class="caption"><div class="image-caption">Custom shipping box.</div> </div>
+## Recreated Heirloom Crib
+
+![](/wp-content/uploads/2011/06/Crib01-400x300.jpg "Crib01")
+
+![](/wp-content/uploads/2011/06/Crib02-400x310.jpg "Crib02")
+- [ ![](/wp-content/uploads/2011/06/Crib04-50x40.jpg "Crib04") ](/wp-content/uploads/2011/06/Crib04-400x324.jpg "Crib04")<div class="caption"> </div>
+- [ ![](/wp-content/uploads/2011/06/Crib05-37x50.jpg "Crib05") ](/wp-content/uploads/2011/06/Crib05.jpg "Crib05")<div class="caption"> </div>
+- [ ![](/wp-content/uploads/2011/06/Crib08-37x50.jpg "Crib08") ](/wp-content/uploads/2011/06/Crib08.jpg "Crib08")<div class="caption"> </div>
+- [ ![](/wp-content/uploads/2011/06/Crib09-50x40.jpg "Crib09") ](/wp-content/uploads/2011/06/Crib09-400x326.jpg "Crib09")<div class="caption"> </div>
+- [ ![](/wp-content/uploads/2011/06/Crib10-47x50.jpg "Crib10") ](/wp-content/uploads/2011/06/Crib10.jpg "Crib10")<div class="caption"> </div>
+- [ ![](/wp-content/uploads/2011/06/Crib17-50x37.jpg "Crib17") ](/wp-content/uploads/2011/06/Crib17-400x300.jpg "Crib17")<div class="caption"><div class="image-caption">Our neighbor Rinah demonstrates</div> </div>
+- [ ![](/wp-content/uploads/2011/06/Crib22-50x37.jpg "Crib22") ](/wp-content/uploads/2011/06/Crib22-400x300.jpg "Crib22")<div class="caption"><div class="image-caption">Don't drop Teddy.</div> </div>
+- [ ![](/wp-content/uploads/2011/06/Crib25-50x37.jpg "Crib25") ](/wp-content/uploads/2011/06/Crib25-400x300.jpg "Crib25")<div class="caption"><div class="image-caption">Can I have this dance?</div> </div>
+- [ ![](/wp-content/uploads/2011/06/Crib27-50x37.jpg "Crib27") ](/wp-content/uploads/2011/06/Crib27-400x300.jpg "Crib27")<div class="caption"><div class="image-caption">Custom shipping box.</div> </div>
 
 
 
