@@ -10,7 +10,7 @@ categories:
     - Gallery
 ---
 
-## Recreated Heirloom Crib
+## A client wanted their family heirloom reproduced
 <div class="flexed gallery" markdown=1>
 <figure markdown=1>
 ![](/wp-content/uploads/2011/06/Crib01-400x300.jpg "Crib01")
@@ -41,10 +41,9 @@ categories:
 ![](/wp-content/uploads/2011/06/Crib10.jpg "Crib10")
 </figure>
 
-<h3>Our neighbor Rinah demonstrates</h3>
-
 <figure markdown=1>
 ![](/wp-content/uploads/2011/06/Crib17-400x300.jpg "Crib17")
+<figcaption>Our neighbor Rinah demonstrates.</figcaption>
 </figure>
 
 <figure markdown=1>
