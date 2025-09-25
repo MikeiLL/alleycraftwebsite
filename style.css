@@ -16,16 +16,30 @@ footer {
   text-align: center;
 }
 
+header a {
+  color: var(--white);
+}
+
+header ul a {
+  color: var(--primary);
+  font-weight: bold;
+  text-decoration: none;
+}
+
 header nav ul {
   list-style-type: none;
-  padding-left: none;
   display: inline-flex;
   gap: 1em;
+  max-width: 100%;
+  padding-left: 0;
 }
 
 header nav ul li {
   padding: 0.6em;
   background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 h1,
