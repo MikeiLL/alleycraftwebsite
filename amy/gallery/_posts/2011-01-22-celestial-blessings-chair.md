@@ -1,6 +1,6 @@
 ---
 id: 105
-title: 'Celestial Blessings Chair &#038; Cubby'
+title: 'Celestial Blessings Chair & Cubby'
 date: '2011-01-22T21:57:56+00:00'
 author: 'Amy Alley'
 layout: amypost

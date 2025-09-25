@@ -3,9 +3,16 @@
 }
 
 :root {
-  --grey: #766868;
+  --grey: #554e4d;
   --primary: #660000;
   --white: #ccffff;
+  --text: #554e4d;
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-style: Normal;
+  color: var(--text);
 }
 
 header,
