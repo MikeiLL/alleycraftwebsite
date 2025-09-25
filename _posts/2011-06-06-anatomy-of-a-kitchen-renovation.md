@@ -4,7 +4,6 @@ title: 'Anatomy of a Kitchen Renovation'
 date: '2011-06-06T15:36:42-06:00'
 author: 'David Alley'
 layout: davidpost
-guid: 'http://www.alleycraft.com/wood/?p=358'
 permalink: /anatomy-of-a-kitchen-renovation/
 image: /wp-content/uploads/2011/06/TheInstall10.jpg
 categories:

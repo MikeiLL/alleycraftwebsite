@@ -4,7 +4,6 @@ title: 'Remodeled  Pensacola Beach Condominium Kitchen and Bathroom by David All
 date: '2011-02-01T17:57:57-06:00'
 author: 'David Alley'
 layout: davidpost
-guid: 'http://alleycraft.com/wood/?p=233'
 permalink: /double-beach-house-renovation/
 image: /wp-content/uploads/2011/02/dscn2009.jpg
 categories:

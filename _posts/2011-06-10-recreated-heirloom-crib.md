@@ -4,7 +4,6 @@ title: 'Recreated Heirloom Crib'
 date: '2011-06-10T11:59:56-06:00'
 author: 'David Alley'
 layout: davidpost
-guid: 'http://www.alleycraft.com/wood/?p=446'
 permalink: /recreated-heirloom-crib/
 image: /wp-content/uploads/2011/06/Crib09.jpg
 categories:
