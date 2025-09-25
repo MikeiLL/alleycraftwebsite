@@ -18,20 +18,24 @@
   {% include header.html %}
   <main>
     <h1>{{ page.title }}</h1>
+    <h2>{{page.previous.url}}</h2>
+    <h2>{{page.next.url}}</h2>
     <section>
       {{ content }}
     </section>
 
     <div class="PageNavigation">
       {% assign project_category = page.categories | first %}
-      {% unless page.categories contains "amy" %}
       {% if page.previous.url %}
+      {% unless page.previous.categories contains "amy" %}
       <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title | date: "%-d %B %Y"}}</a>
+      {% endunless %}
       {% endif %}
       {% if page.next.url %}
+      {% unless page.next.categories contains "amy" %}
       <a class="next" href="{{page.next.url}}">{{page.next.title | date: "%-d %B %Y"}} &raquo;</a>
-      {% endif %}
       {% endunless %}
+      {% endif %}
     </div>
   </main>
   {% include footer.html %}

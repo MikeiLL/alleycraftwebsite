@@ -220,10 +220,15 @@ Removing, redesigning and rebuilding a kitchen is quite a project and this one e
 </figure>
 
 <figure markdown=1>
-![](/wp-content/uploads/2011/06/Arrival07-400x300.jpg "Arrival07")<div class="caption"> </div>
+![](/wp-content/uploads/2011/06/Arrival07-400x300.jpg "Arrival07")
+</figure>
+
+<figure markdown=1>
 ![into their new home](/wp-content/uploads/2011/06/Arrival09-375x500.jpg "Arrival09")
 <figcaption>into their new home</figcaption>
+</figure>
 
+<figure markdown=1>
 ![watch that door frame](/wp-content/uploads/2011/06/Arrival10-375x500.jpg "Arrival10")
 <figcaption>watch that door frame</figcaption>
 </figure>

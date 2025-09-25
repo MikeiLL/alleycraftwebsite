@@ -12,7 +12,7 @@ categories:
 ---
 
 ## Recreated Heirloom Crib
-
+<div class="flexed gallery" markdown=1>
 <figure markdown=1>
 ![](/wp-content/uploads/2011/06/Crib01-400x300.jpg "Crib01")
 </figure>
@@ -42,12 +42,11 @@ categories:
 ![](/wp-content/uploads/2011/06/Crib10.jpg "Crib10")
 </figure>
 
+<h3>Our neighbor Rinah demonstrates</h3>
+
 <figure markdown=1>
 ![](/wp-content/uploads/2011/06/Crib17-400x300.jpg "Crib17")
 </figure>
-
-<figure markdown=1>
-<figcaption>Our neighbor Rinah demonstrates</figcaption></figure>
 
 <figure markdown=1>
 ![](/wp-content/uploads/2011/06/Crib22-400x300.jpg "Crib22")
@@ -60,3 +59,4 @@ categories:
 <figure markdown=1>
 ![](/wp-content/uploads/2011/06/Crib27-400x300.jpg "Crib27")
 <figcaption>Custom shipping box.</figcaption></figure>
+</div>

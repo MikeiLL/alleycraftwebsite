@@ -3,7 +3,7 @@
 }
 
 :root {
-  --grey: #999999;
+  --grey: #766868;
   --primary: #660000;
   --white: #ccffff;
 }
@@ -70,10 +70,16 @@ figure figcaption {
   text-align: center;
 }
 
+figure figcaption span {
+  color: var(--grey);
+  display: block;
+  text-align: center;
+  max-width: 100%;
+}
+
 figure img {
   border-radius: 5px;
 }
-
 
 .clear {
   clear: both;
@@ -86,9 +92,15 @@ figure img {
 
 .PageNavigation {
   font-size: 14px;
-  display: block;
+  display: flex;
+  justify-content: space-between;
   width: auto;
   overflow: hidden;
+  font-size: large;
+  padding: 1em;
+  background: #99999933;
+  border-radius: 10px 10px 0 0;
+  margin-top: 0.5em;
 }
 
 .PageNavigation a {

@@ -1,7 +1,7 @@
 ---
 id: 355
 title: 'Works Gallery'
-date: '2011-05-23T12:18:02-06:00'
+date: '2011-01-23T12:18:02-06:00'
 author: 'David Alley'
 layout: revision
 guid: 'http://www.alleycraft.com/wood/archives/355'
