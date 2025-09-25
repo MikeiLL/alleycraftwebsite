@@ -2,12 +2,6 @@ url: 'https://www.alleycraft.com'
 name: 'David &amp; Amy Alley Custom Cabinetry and Woodwork'
 description: 'Carpentry, Custom Cabinetry &amp; Design'
 collections:
-  projects:
-    output: true
-    permalink: /:collection/:categories:output_ext
-  staff_members:
-    output: true
-    permalink: /:collection/:name
   amy:
     output: true
     permalink: /:collection/:categories:output_ext
